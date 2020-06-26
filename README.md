@@ -1,4 +1,4 @@
-## Reference-Free Foreign Accent Conversion
+## Converting Foreign Accent Speech Without a Reference (submitted to TASLP)
 
 ### Audio samples
 
